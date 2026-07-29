@@ -1,1 +1,2 @@
-console.log("Hello World")
+// Print hello world 
+console.log("Hello World");
